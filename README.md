@@ -1,18 +1,18 @@
 # 🚜 FarmTech Solutions - Sistema de Irrigação Inteligente (Fase 2)
 
-Nome do Grupo: Grupo 56
-##👨‍🎓 Integrantes
-Lucas Michels Kuntz - RM 570050
-João Pedro Alencar - RM 573473
-Camila Duarte Ferreira - RM 569629
-Thiago Henrique Piva Balerio - RM 572194
-Alisson Vinicius de Souza Rabelo Teixeira - RM 573512
+## 👥 Grupo 56 - Integrantes
 
-##👩‍🏫 Professores
-**Tutor(a)**
-Edson de Oliveira
-**Coordenador(a)**
-André Godoi
+| Nome | RM |
+| :--- | :--- |
+| **Lucas Michels Kuntz** | 570050 |
+| **João Pedro Ferreira Alencar** | 573473 |
+| **Camila Duarte Ferreira** | 569629 |
+| **Thiago Henrique Piva Balerio** | 572194 |
+| **Alisson Vinicius de Souza Rabelo Teixeira** | 573512 |
+
+## 👩‍🏫 Corpo Docente
+* **Tutor:** Edson de Oliveira
+* **Coordenador:** André Godoi
 
 ## 📝 Descrição do Projeto
 Este projeto faz parte da Fase 2 da startup **FarmTech Solutions**. O objetivo é criar um dispositivo IoT robusto para monitorar as condições do solo em plantações de **Cana-de-Açúcar** e automatizar o processo de irrigação de forma eficiente e sustentável.
