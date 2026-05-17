@@ -1,0 +1,11 @@
+farm_id,region,crop_type,soil_moisture_%,soil_pH,temperature_C,rainfall_mm,humidity_%,sunlight_hours,irrigation_type,fertilizer_type,pesticide_usage_ml,sowing_date,harvest_date,total_days,yield_kg_per_hectare,sensor_id,timestamp,latitude,longitude,NDVI_index,crop_disease_status
+FARM0001,Centro-Oeste BR,Sugarcane,45.2,6.2,28.5,120.5,65.0,8.5,Drip,Organic,150,2025-10-12,2026-05-15,215,7500,SNS-001,2026-05-17 10:00:00,-20.4435,-54.6478,0.78,Healthy
+FARM0001,Centro-Oeste BR,Sugarcane,38.0,5.8,29.1,0.0,60.2,9.0,Drip,Organic,0,2025-10-12,2026-05-15,215,7500,SNS-002,2026-05-17 11:00:00,-20.4436,-54.6479,0.75,Healthy
+FARM0002,Centro-Oeste BR,Sugarcane,55.1,7.1,27.4,25.4,70.5,7.2,None,Inorganic,200,2025-11-01,2026-05-20,200,8200,SNS-003,2026-05-17 10:30:00,-20.4501,-54.6311,0.82,Healthy
+FARM0002,Centro-Oeste BR,Sugarcane,48.9,6.5,28.0,12.0,68.0,8.0,Sprinkler,Mixed,100,2025-11-01,2026-05-20,200,8200,SNS-004,2026-05-17 11:30:00,-20.4502,-54.6312,0.80,Healthy
+FARM0003,Sudeste BR,Sugarcane,42.0,5.6,26.5,85.2,58.0,8.1,Drip,Organic,0,2025-10-20,2026-05-10,202,7100,SNS-005,2026-05-17 09:00:00,-22.9068,-47.0616,0.71,Healthy
+FARM0003,Sudeste BR,Sugarcane,31.5,5.2,30.2,0.0,52.4,9.5,Drip,Inorganic,300,2025-10-20,2026-05-10,202,7100,SNS-006,2026-05-17 10:00:00,-22.9069,-47.0617,0.64,Monitoring
+FARM0004,Nordeste BR,Sugarcane,22.4,7.4,32.1,5.0,45.0,10.2,Sprinkler,Mixed,150,2025-09-15,2026-04-30,227,6900,SNS-007,2026-05-17 08:15:00,-8.0522,-34.9286,0.59,Pest_Alert
+FARM0004,Nordeste BR,Sugarcane,49.1,6.8,30.5,45.0,55.1,8.8,Sprinkler,Organic,0,2025-09-15,2026-04-30,227,6900,SNS-008,2026-05-17 09:15:00,-8.0523,-34.9287,0.73,Healthy
+FARM0005,Sul BR,Sugarcane,60.3,6.0,22.1,190.4,82.0,6.0,None,Organic,0,2025-11-10,2026-05-25,196,7900,SNS-009,2026-05-17 14:00:00,-25.4284,-49.2733,0.85,Healthy
+FARM0005,Sul BR,Sugarcane,58.7,5.9,21.8,12.5,80.5,6.5,None,Organic,120,2025-11-10,2026-05-25,196,7900,SNS-010,2026-05-17 15:00:00,-25.4285,-49.2734,0.83,Healthy
